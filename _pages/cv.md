@@ -13,14 +13,16 @@ Education
 ======
 * B.S. in Mathematics, Wollega University, Ethiopia, 2019
 * M.S. in Mathematics , Addis Ababa University, Ethiopia, 2011
+
+
 Work experience
 ======
+* Summer 2019: Junior Research Fellow
+  * Technical University of Kaiserslautern
+  * Host:  Prof. Dr. Ren\'e  Pinnau 
 * Summer 2018: Visiting Research Fellow
   * Brunel University London
   * Supervisors: Professor Sergey E.Mikhailov and Dr.Tsegaye G. Ayele
-* Summer 2018: Junior Research Fellow
-  * Technical University of Kaiserslautern
-  * Host:  Prof. Dr. Ren\'e  Pinnau 
 * From 2011--2015: Lecturer
   * Debre Tabor University
  
@@ -36,7 +38,6 @@ Skills
   * Python
   * MATLAB
   * LATEX
-  * Sketchpad 
   * SPSS
 
 Publications
