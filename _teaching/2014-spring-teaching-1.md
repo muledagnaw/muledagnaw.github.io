@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2011-spring-teaching
 venue: "Debre Tabor University , Department of Mathematics"
-date: 2011-04-01
+date: since 2011-04-01
 location: "Debre Tabor, Ethiopia"
 ---
 
@@ -14,11 +14,4 @@ Several Variables, Applied Mathematics for computer Science, Applied Mathe-
 matics I, Applied Mathematics II, Applied Mathematics III, Ordinary Differential
 Equations and Partial Differential Equations..
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
