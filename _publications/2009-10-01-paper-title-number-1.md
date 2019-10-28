@@ -1,8 +1,9 @@
 ---
 title: "Clifford analysis over Orlicz-Sobolev spaces"
 collection: publications
-permalink: 
+permalink: /publication/2014-01-01-paper-title-number-1
 excerpt: 
+date: 2014-01-01
 venue: 
 paperurl: 'http://muledagnaw.github.io/files/paper1.pdf'
 citation: 'Dejenie A. Lakew, Mulugeta Alemayehu. (2014). &quot;Clifford analysis over Orlicz-

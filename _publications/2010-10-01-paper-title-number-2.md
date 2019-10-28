@@ -4,7 +4,7 @@ Determinants Influencing Students’ Academic Achievement in English and
 Mathematics Subjects of Ending Classes of Schools at Bahir Dar and Debre
 Tabor Towns, Ethiopia"
 collection: publications
-permalink: 
+permalink: /publication/2015-10-01-paper-title-number-2
 excerpt: 
 venue: 
 paperurl: 'http://muledagnaw.github.io/files/paper2.pdf'
