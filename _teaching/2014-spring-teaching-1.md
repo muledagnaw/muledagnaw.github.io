@@ -1,14 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experiences "
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2011-spring-teaching
+venue: "Debre Tabor University , Department of Mathematics"
+date: 2011-04-01
+location: "Debre Tabor, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have been teaching different courses such as Linear Algebra I, Linear Algebra II, Calculus I, Calculus II, Discrete Mathematics,
+Introduction to Combinatorics and Graph Theory, Calculus of Functions of
+Several Variables, Applied Mathematics for computer Science, Applied Mathe-
+matics I, Applied Mathematics II, Applied Mathematics III, Ordinary Differential
+Equations and Partial Differential Equations..
 
 Heading 1
 ======
