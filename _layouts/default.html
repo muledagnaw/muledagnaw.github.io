@@ -1,17 +1,31 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<link rel="alternate" type="application/rss+xml" title=" Mesfin Diro RSS" href="/feed.xml">
-  {% include head.html %}
+---
+layout: compress
+---
 
-  <body class="theme-base-0c">
-    {% include google_analytics.html %}
-    {% include sidebar.html %}
-    
-    <div class="content container">
-      {{ content }}
-      {% include disqus.html %}
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
 
+    {% include scripts.html %}
+
   </body>
-  {% include js.html %}
 </html>
