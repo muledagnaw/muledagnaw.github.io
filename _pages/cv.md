@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. in Mathematics, Wollega University, Ethiopia, 2019
+* M.S. in Mathematics , Addis Ababa University, Ethiopia, 2011
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Visiting Research Fellow
+  * Brunel University London
+  * Supervisors: Professor Sergey E.Mikhailov and Dr.Tsegaye G. Ayele
+* Summer 2018: Junior Research Fellow
+  * Technical University of Kaiserslautern
+  * Host:  Prof. Dr. Ren\'e  Pinnau 
+* From 2011--2015: Lecturer
+  * Debre Tabor University
+ 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Strong desire for work and further education
+* IT skill:
+  * MS Word, 
+  * MS Excel
+  * MS Power Point
+* I do have the working skills for programming language such as:
+  * Python
+  * MATLAB
+  * LATEX
+  * Sketchpad 
+  * SPSS
 
 Publications
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I have served as a Head of Mathematics Department and I have also been engaged in different co-curricular activities designed to boost the efficiency of our University.
