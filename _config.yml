@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mulugeta Alemayehu Dagnaw"
+title                    : "Mulugeta A. Dagnaw"
 title_separator          : "-"
 name                     : &name "Mulugeta Alemayehu Dagnaw"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mulugeta A. Dagnaw"
+  name             : "Mulugeta Alemayehu Dagnaw"
   avatar           : "mule.png"
-  bio              :  #"Your biography for the left-hand sidebar"
+  bio              :  "Lecture of Mathematics at Debre Tabor University, Ethiopia."
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
