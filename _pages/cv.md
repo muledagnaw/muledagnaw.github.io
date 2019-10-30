@@ -41,7 +41,7 @@ Skills
   * SPSS
 
 Publications
-======
+============
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,5 +59,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
+========================
 * I have served as a Head of Mathematics Department and I have also been engaged in different co-curricular activities designed to boost the efficiency of our University.
