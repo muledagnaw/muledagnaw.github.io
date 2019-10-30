@@ -2,9 +2,9 @@
 title: "Teaching experiences "
 collection: teaching
 type: "Debre Tabor University"
-permalink: /teaching/2011-spring-teaching
+permalink: /teaching/ -spring-teaching
 venue: "Department of Mathematics"
-date: since 2011-04-01
+date: 
 location: "Debre Tabor, Ethiopia"
 ---
 
