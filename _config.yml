@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : & malemayehu3
 facebook:
   username               :
   app_id                 :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/mulugeta.alemayehu.94"
+  facebook         : "mulugeta.alemayehu.94"
   foursquare       :
   github           : "muledagnaw"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/mulugeta-alemayehu-dagnaw/"
+  linkedin         : "mulugeta-alemayehu-dagnaw"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :  https://twitter.com/malemayehu3
+  twitter          : "malemayehu3"
   vine             :
   weibo            :
   xing             :
