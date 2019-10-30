@@ -1,7 +1,6 @@
 ---
 title: "Teaching experiences "
 collection: teaching
-type: "Undergraduate courses"
 permalink: /teaching/2011-spring-teaching
 venue: "Debre Tabor University , Department of Mathematics"
 date: since 2011-04-01
