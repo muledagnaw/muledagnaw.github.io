@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics, Wollega University, Ethiopia, 2009
+* Ph.D. Student in Mathematics , Addis Ababa University, Ethiopia, since 2015
 * M.Sc. in Mathematics , Addis Ababa University, Ethiopia, 2011
+* B.Sc. in Mathematics, Wollega University, Ethiopia, 2009
 
 
 Work experience
