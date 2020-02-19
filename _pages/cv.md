@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* From 2010--Present: Assistant Professor
+  * Debre Tabor University
 * Summer 2019: Junior Research Fellow
   * Technical University of Kaiserslautern
   * Host:  Prof. Dr. Ren\'e  Pinnau 
