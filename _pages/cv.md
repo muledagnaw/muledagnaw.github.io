@@ -26,6 +26,8 @@ Work experience
 * Summer 2018: Visiting Research Fellow
   * Brunel University London
   * Supervisors: Professor Sergey E.Mikhailov and Dr.Tsegaye G. Ayele
+* From 2015 -- 2019: PhD student
+  * Addis Ababa University
 * From 2011 -- 2015: Lecturer
   * Debre Tabor University
  
