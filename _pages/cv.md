@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* From December 2029 -- Present: Assistant Professor
+* From December 2019 -- Present: Assistant Professor
   * Debre Tabor University
 * Summer 2019: Junior Research Fellow
   * Technical University of Kaiserslautern
