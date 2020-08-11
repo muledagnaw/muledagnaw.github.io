@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* From 2020 -- Present: Assistant Professor
+* From December 2029 -- Present: Assistant Professor
   * Debre Tabor University
 * Summer 2019: Junior Research Fellow
   * Technical University of Kaiserslautern
@@ -26,9 +26,9 @@ Work experience
 * Summer 2018: Visiting Research Fellow
   * Brunel University London
   * Supervisors: Professor Sergey E.Mikhailov and Dr.Tsegaye G. Ayele
-* From 2015 -- 2019: PhD student
+* From September 2015 -- December 2019: PhD student
   * Addis Ababa University
-* From 2011 -- 2015: Lecturer
+* From April 2011 -- September 2015: Lecturer
   * Debre Tabor University
  
   
