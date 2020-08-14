@@ -35,10 +35,6 @@ Work experience
 Skills
 ======
 * Strong desire for work and further education
-* IT skill:
-  * MS Word, 
-  * MS Excel
-  * MS Power Point
 * I do have the working skills for programming language such as:
   * Python
   * MATLAB
